@@ -1,8 +1,8 @@
 # Summary
 
-* [前言](README.md)
-* [思想方面](Chapter1/思想方面.md)
-* [教学方面](Chapter1/教学方面.md)
-* [个人学习](Chapter1/个人学习.md)
+* [总结](README.md)
+* [思想](Chapter1/思想.md)
+* [教学](Chapter1/教学.md)
+* [个人](Chapter1/个人.md)
 * [努力方向](Chapter1/努力方向.md)
 
